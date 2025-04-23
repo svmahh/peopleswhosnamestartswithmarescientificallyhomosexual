@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "636681406284",
+    "firebase_url": "https://blehhh-ea60a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blehhh-ea60a",
+    "storage_bucket": "blehhh-ea60a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636681406284:android:e0f87c11aa9565c40671e9",
+        "android_client_info": {
+          "package_name": "com.example.firebaseobject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZsQQgtGexWSIZWGDsCxZSJ0GJ1E0k8t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
